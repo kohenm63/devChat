@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>2055885143-juflh1mbef1282oqaab76rshdflfq8v2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.2055885143-juflh1mbef1282oqaab76rshdflfq8v2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChouzY6ma-8evhISFA3KSbXG9VDhuLCWE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>2055885143</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>milaR.DevChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chatroom-70156</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatroom-70156.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:2055885143:ios:e10b332bf7d263be0dae12</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatroom-70156.firebaseio.com</string>
+</dict>
+</plist>

@@ -10,5 +10,6 @@ target 'DevChatApp' do
 pod 'Firebase/Auth'
 pod 'Firebase/Firestore'
 pod 'Firebase/Storage'
+pod 'Firebase/Core'
 pod 'SDWebImage'
 end
